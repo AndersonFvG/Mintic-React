@@ -1,10 +1,9 @@
 import LoginPage from "./pages/loginpages/loginpages";
+import UseStateContador from "./playground/useState/useState";
 function App() {
   return (
     <>
-     <LoginPage/>
-     <LoginPage/>
-     <LoginPage/>
+     <UseStateContador/>
     </>
   );
 }
