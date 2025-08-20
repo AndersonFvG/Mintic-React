@@ -1,7 +1,7 @@
 import { useState } from "react";
 import './loginpages.css'
 import Swal from "sweetalert2";
-function LoginPage(){
+function Home(){
     const [UserName, setUserName] = useState('');
     function handeleLoginClick(){
         if(UserName.trim() === ''){
@@ -22,4 +22,4 @@ function LoginPage(){
         </div>
     );
 }
-export default LoginPage;
+export default Home;

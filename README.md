@@ -39,7 +39,10 @@ npm install bootstrap
 ```bash
 npm install SweetAlert2
 ```
-
+**React Router Dom**
+```bash
+npm install react-router-dom
+```
 ---
 
 ## 🛠️ Tecnologías Utilizadas
